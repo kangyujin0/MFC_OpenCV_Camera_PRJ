@@ -55,8 +55,7 @@ BEGIN_MESSAGE_MAP(CColorControls, CDialogEx)
 	
 	ON_WM_QUERYDRAGICON()
 	ON_WM_CTLCOLOR()
-	ON_BN_CLICKED(IDC_MFCCOLORBUTTON_COLOR, &CColorControls::OnBnClickedMfccolorbuttonColor)
-	
+	ON_BN_CLICKED(IDC_MFCCOLORBUTTON_COLOR, &CColorControls::OnBnClickedMfccolorbuttonColor)	
 	
 	ON_WM_LBUTTONDOWN()
 	ON_WM_LBUTTONUP()

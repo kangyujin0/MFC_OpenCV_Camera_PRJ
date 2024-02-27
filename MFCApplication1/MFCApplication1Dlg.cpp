@@ -733,7 +733,7 @@ void CMFCApplication1Dlg::OnTimer(UINT_PTR nIDEvent)
 		int border = 0;
 
 		// 32비트 이미지는 각 픽셀이 4바이트를 사용하므로 DWORD로 정렬됩니다.
-		if (bpp < 32)
+		if (bpp < 32)  
 		{
 			border = 4 - (mat_frame.cols % 4);
 		}
