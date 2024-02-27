@@ -7,7 +7,7 @@
 #include "CColorControls.h"
 
 
-// CColorControls 대화 상자
+// CColorControls 대화 상자 
 
 IMPLEMENT_DYNAMIC(CColorControls, CDialogEx)
 
