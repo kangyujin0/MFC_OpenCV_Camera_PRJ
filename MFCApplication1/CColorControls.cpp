@@ -56,7 +56,7 @@ BEGIN_MESSAGE_MAP(CColorControls, CDialogEx)
 	ON_WM_QUERYDRAGICON()
 	ON_WM_CTLCOLOR()
 	ON_BN_CLICKED(IDC_MFCCOLORBUTTON_COLOR, &CColorControls::OnBnClickedMfccolorbuttonColor)
-	//ON_NOTIFY(NM_CUSTOMDRAW, IDC_SLIDER_H, &CColorControls::OnNMCustomdrawSliderH)// EDIT 출력 실행력 낮음
+	
 	
 	ON_WM_LBUTTONDOWN()
 	ON_WM_LBUTTONUP()
