@@ -1,6 +1,6 @@
 # Rain - openCV + MFCApplication + C++
 ## [인텔엣지] 
-##만든이: 
+##만든이:팀프로젝트_강유진, 신동희, 장동혁, 송인태, 김경태
 
 ## 이미지 처리: OpenCV 라이브러리 활용 
 ## GUI: MFC 
